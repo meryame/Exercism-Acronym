@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\bin\Debug\net6.0\Exercism-Acronym.exe
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\bin\Debug\net6.0\Exercism-Acronym.deps.json
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\bin\Debug\net6.0\Exercism-Acronym.runtimeconfig.json
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\bin\Debug\net6.0\Exercism-Acronym.dll
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\bin\Debug\net6.0\ref\Exercism-Acronym.dll
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\bin\Debug\net6.0\Exercism-Acronym.pdb
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.AssemblyInfo.cs
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.dll
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\ref\Exercism-Acronym.dll
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.pdb
+C:\Users\pc\source\repos\Exercism-Acronym\Exercism-Acronym\obj\Debug\net6.0\Exercism-Acronym.genruntimeconfig.cache
