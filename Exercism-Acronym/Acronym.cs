@@ -8,7 +8,7 @@ namespace Exercism_Acronym
 {
     public class Acronym
     {
-        public static string Abbreviate(string phrase)
+        public static string Abbreviat(string phrase)
         {
             var result = "";
             char[] separators = { ' ', '-', '_', ',' };

@@ -4,6 +4,6 @@
 
 using Exercism_Acronym;
 
-var acronym = Acronym.Abbreviate("Back End");
+var acronym = Acronym.Abbreviat("Back End");
 Console.WriteLine(acronym);
 Console.ReadKey();
